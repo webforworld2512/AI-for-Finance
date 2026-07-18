@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.csv        # don't commit large datasets
